@@ -1,0 +1,16 @@
+@import 'Header.css';
+@import 'LeftUI.css';
+@import 'MainVideoViewer.css';
+
+body{
+    margin:0px;
+    background-color : #181818;
+    color : #FFFFFF;
+}
+
+i{
+    margin-left: 27px;
+    margin-right: 27px;
+    margin-top:11px;
+}
+

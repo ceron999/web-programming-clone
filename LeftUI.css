@@ -1,0 +1,24 @@
+#LeftUI{
+    margin-top:57px;
+    width:240px;
+    position: fixed;
+    background-color: #212121;
+}
+
+.LeftUI__Box{
+    height:40px;
+}
+
+.LeftUI__Subscribe{
+    color:#AAAAAA;
+    margin-left:27px;
+}
+
+.LeftUI__More{
+    color:#AAAAAA;
+    margin-left:27px;
+}
+
+.LeftUi__Support{
+    color:#AAAAAA;
+}
